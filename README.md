@@ -1,3 +1,7 @@
+# Machine Learning
+The list of programs made in the lab
+They are present the lab-prac folder in a sequential order
+
 
 |     | Experiment Name                                                                                                                                                     |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
