@@ -1,0 +1,9 @@
+# This are the two path variables that are creating the problem
+# for the tensorflow installation because tensor flow does not 
+# support gpu acceleration for native windows after the version
+# 2.10 and we don't have the tensorflow support for python 3.12.1
+# thus I will revert back if I need the 3.12 python again 
+
+C:\Python312\
+
+C:\Python312\Scripts\
