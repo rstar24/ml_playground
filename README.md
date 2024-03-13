@@ -1,5 +1,5 @@
 
-|     | Experiment Name                                                                                                                                                     |
+|     | Experiments                                                                                                                                                   |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Dictionary <br>Pandas Numpy Matplotlib<br>tuple<br>string and classes - objects<br>lambda function                                                                  |
 | 2   | python list comprehension with examples                                                                                                                             |
