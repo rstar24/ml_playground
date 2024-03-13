@@ -1,15 +1,7 @@
-# Machine Learning
-The list of programs made in the lab
-They are present the lab-prac folder in a sequential order
-
 
 |     | Experiment Name                                                                                                                                                     |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     | Dictionary                                                                                                                                                          |
-|     | Pandas Numpy Matplotlib                                                                                                                                             |
-|     | tuple                                                                                                                                                               |
-|     | string and classes - objects                                                                                                                                        |
-| 1   | lambda function                                                                                                                                                     |
+| 1   | Dictionary <br>Pandas Numpy Matplotlib<br>tuple<br>string and classes - objects<br>lambda function                                                                  |
 | 2   | python list comprehension with examples                                                                                                                             |
 | 3   | Basic of Numpy Pandas and Matplot lib                                                                                                                               |
 | 4   | Brief Studies of Machine Learning Frame works such as open cv<br>keras , tensorflow ,scikit learn                                                                   |
