@@ -1,3 +1,6 @@
+# ML Playground
+* Objective collecting cool algorithms and learning ml.
+* It also Contains my lab assingments as show in the table
 
 |     | Experiment Name                                                                                                                                                     |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
